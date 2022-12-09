@@ -4,6 +4,7 @@
 
 layout: page
 title: Our Process
+permalink: /process/
 ---
 Our search engine consulting engagements typically involve the following steps:
 
